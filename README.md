@@ -22,3 +22,8 @@
 	<a href="https://www.linkedin.com/in/youssef-ashraf-93b20a15b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/joeAshraf1998"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAshraf397&theme=algolia" /></p>
+
+<br>
