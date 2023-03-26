@@ -11,7 +11,7 @@
 <!-- - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) -->
 - 🌱 I’m currently learning `Golang` and `Kubernetes`
 - 📫 How to reach me **youssefashraf397@yahoo.com**
-- :thinking: I’m currently working for: `our education for investment`, this is [MY RESUME]().
+- :thinking: I’m currently working for: `our education for investment`, this is [MY RESUME](https://docs.google.com/document/d/1wk72PFoFrDSi0rgHLoFQB-hQY9Bfj_SZUer45nTpMp8/edit?usp=sharing).
 - :nerd_face: Always `learning new things`
 <br>
 
